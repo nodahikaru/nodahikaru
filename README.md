@@ -1,17 +1,10 @@
-```                                      __ 
-           _ _ _     _                  |  |                           
-(\(\      | | | |___| |___ ___ _____ ___|  |                       
-( – -)    | | | | -_| |  _| . |     | -_|__|
-((‘) (’)  |_____|___|_|___|___|_|_|_|___|__|
-```
-<sup>ascii text generator made by: <a href="https://patorjk.com">patorjk</a> :)</sup>
-
+![gitartwork](gitartwork.svg)
 <div>
     <h2>About me</h2>
     <p>👋 Hey there! I'm Noda Hikaru, a software engineer by trade and a coffee enthusiast by necessity. When I'm not busy turning caffeine into code, you can find me debugging the mysteries of the universe (or at least my latest project). 
     I see the world in pixels and bytes. Sometimes I dream in hexadecimal.</p>
-    <p>My site: <a href="https://noda-portfolio.vercel.app">Here you go!</a></p>
-    <p>Contact me: <a href="mailto:like365.hondai@gmail.com">Email</a>, <a href="https://telegram.me/nodahikaru">Telegram</a></p>
+    <p>My site: <a href="https://noda-portfolio.vercel.app">cnwy.dev</a></p>
+    <p>Contact me: <a href="mailto:like365.hondai@gmail.com">Email</a></p>     
     <hr>
     <br>
     <div align="center">
